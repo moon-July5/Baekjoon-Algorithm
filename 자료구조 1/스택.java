@@ -4,6 +4,8 @@ import java.util.StringTokenizer;
 
 /*   Baekjoon 10828번 - 스택 (Silver Ⅳ)
 *    문제 푼 날짜 : 2022 - 06 - 16
+*    메모리 - 18332KB
+*    시간 - 228ms
  */
 public class Main {
     public static void main(String[] args) throws IOException {
